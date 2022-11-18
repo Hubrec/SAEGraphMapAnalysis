@@ -9,10 +9,18 @@ The repository contains a executable of the app and the source code with all the
 
 You can clone the repository and play with the sample data provided.
 
+The data is formatted line by line and must be imported when the application is opened. they are stored in [this document](./ressources/SAE_graph.txt "text file").
+
 ## Visuals of the application
 
-This is the main screen of the application, it allows you to view the entire graph at once :
-![image graph](./ressource "image screen 1")
+ - This is the main screen of the application, it allows you to view the entire graph at once :
+
+    ![image graph](./ressources/screen1.png "image screen 1")
+
+- Here is also a visuel but with a way selected :
+
+    ![image graph 2](./ressources/screen2.png "image screen 2")
+
 
 ## Authors
 
