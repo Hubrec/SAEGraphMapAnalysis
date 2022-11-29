@@ -31,7 +31,7 @@ The data is formatted line by line and must be imported when the application is 
 
 ## License
 
-This project is open source.
+This project is under a MIT licence.
 
 ## Project status
 
